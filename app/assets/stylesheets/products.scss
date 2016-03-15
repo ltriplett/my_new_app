@@ -1,0 +1,30 @@
+// Place all the styles related to the static_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+// View Products Page
+
+table {
+  width: 80%;
+  margin-left: 15px;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.AddProduct {
+	margin-left: 30px;
+}
+
+// Add Product Page
+
+.field {
+	margin-left: 15px;
+}
+
+.actions {
+	margin-left: 15px;
+}
